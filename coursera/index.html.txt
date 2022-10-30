@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Menu</title>
+  <link href='style.css' rel='stylesheet' type='text/css'>
+</head>
+<body>
+  <div class="container">
+
+ <div class="row">
+    <h1 class="menu-title">Our menu</h1>
+      <div class="col-lg-4">
+        <div class="item">
+          <div class="item-title" id="first1">
+            <h2>Chicken</h2>
+          </div>
+          <p>
+            chicken the best.
+          </p>
+        </div>
+      </div>
+      <div class="col-lg-4">
+        <div class="item">
+         <div class="item-title" id="second2">
+          <h2>Beef</h2>
+        </div>
+        <p>
+          beef unique
+        </p>
+      </div>
+    </div>
+    <div class="col-lg-4">
+      <div class="item">
+       <div class="item-title" id="third3">
+        <h2>Sushi</h2>
+      </div>
+      <p>
+        fresh ocean sushi
+      </p>
+    </div>
+  </div>
+
+</div>
+</div>
+</body>
+</html>
